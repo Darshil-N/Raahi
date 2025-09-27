@@ -47,7 +47,7 @@ Raahi is a robust digital ecosystem that directly addresses these challenges. It
 
 ## 4. Demo Video
 
-* [**Watch the Demo Video on YouTube**](https://youtu.be/EfS6qsVRZcI?feature=shared)
+* [**Watch the Demo Video on YouTube**](https://www.youtube.com/watch?v=7I_j445rEhk)
 
 ## Demo Credentials
 
