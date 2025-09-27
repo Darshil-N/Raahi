@@ -2,7 +2,7 @@
   <img src="https://github.com/Anonymous-7777/Raahi/blob/main/Logo.png" alt="Project Raahi Logo" width="150">
 </p>
 
-<h1 align="center">Project Raahi (Version 1.0)</h1>
+<h1 align="center">Project Raahi </h1>
 
 <p align="center">
   <strong>A Smart Tourist Safety & Convenience Ecosystem</strong>
@@ -10,8 +10,8 @@
 </p>
 
 <p align="center">
-  <a href="https://raahi1.vercel.app/"><img src="https://img.shields.io/badge/Live-Dashboard-brightgreen?style=for-the-badge&logo=firebase" alt="Live Dashboard"></a>
-  <a href="https://github.com/Anonymous-7777/Raahi/releases/download/v1.0/raahi-app.apk"><img src="https://img.shields.io/badge/Download-Android_APK-blue?style=for-the-badge&logo=android" alt="Download APK"></a>
+  <a href="https://raahi-eta.vercel.app//"><img src="https://img.shields.io/badge/Live-Dashboard-brightgreen?style=for-the-badge&logo=firebase" alt="Live Dashboard"></a>
+  <a href="https://github.com/Anonymous-7777/Raahi"><img src="https://img.shields.io/badge/Download-Android_APK-blue?style=for-the-badge&logo=android" alt="Download APK"></a>
 </p>
 
 ---
@@ -47,7 +47,7 @@ Raahi is a robust digital ecosystem that directly addresses these challenges. It
 
 ## 4. Demo Video
 
-* [**Watch the 90-Second Demo Video on YouTube**](https://youtu.be/qfpF9Ld5dyI?feature=shared)
+* [**Watch the Demo Video on YouTube**](https://youtu.be/EfS6qsVRZcI?feature=shared)
 
 ## Demo Credentials
 
