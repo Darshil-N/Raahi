@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "297394347900",
+    "project_id": "paradox-55250",
+    "storage_bucket": "paradox-55250.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:297394347900:android:7b0a51d5ce8af382850ef9",
+        "android_client_info": {
+          "package_name": "com.example.raahi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaMWToOvSgfoK1kIJBCrprOGYhySpRSHo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

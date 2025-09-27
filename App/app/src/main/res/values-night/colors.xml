@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Override text colors for dark mode -->
+    <color name="black">#FFFFFFFF</color> <!-- Use white for text in dark mode -->
+    <color name="white">#FF000000</color> <!-- Use black for backgrounds in dark mode if needed -->
+    <!-- Add more overrides as needed -->
+</resources>
+
