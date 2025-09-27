@@ -1,8 +1,8 @@
 <p align="center">
-  <img <img width="114" height="876" alt="Image" src="https://github.com/user-attachments/assets/55143a93-2078-4766-a02f-64569d9982f4" />
+  <img src="https://github.com/user-attachments/assets/55143a93-2078-4766-a02f-64569d9982f4" alt="Project Raahi Logo" width="150">
 </p>
 
-<h1 align="center">Project Raahi (Version 1.0)</h1>
+<h1 align="center">Project Raahi </h1>
 
 <p align="center">
   <strong>A Smart Tourist Safety & Convenience Ecosystem</strong>
@@ -10,52 +10,63 @@
 </p>
 
 <p align="center">
-  <a href="https://raahi1.vercel.app/"><img src="https://img.shields.io/badge/Live-Dashboard-brightgreen?style=for-the-badge&logo=firebase" alt="Live Dashboard"></a>
-  <a href="https://github.com/Anonymous-7777/Raahi/blob/main/Raahi.apk"><img src="https://img.shields.io/badge/Download-Android_APK-blue?style=for-the-badge&logo=android" alt="Download APK"></a>
+  <a href="https://raahi-eta.vercel.app//"><img src="https://img.shields.io/badge/Live-Dashboard-brightgreen?style=for-the-badge&logo=firebase" alt="Live Dashboard"></a>
+  <a href="https://github.com/Anonymous-7777/Raahi"><img src="https://img.shields.io/badge/Download-Android_APK-blue?style=for-the-badge&logo=android" alt="Download APK"></a>
 </p>
 
 ---
 
 ## 1. Overview
 
-Project Raahi is built on a foundation of trust and security. It's a digital companion designed to give tourists the freedom to explore with confidence, knowing that a proactive safety net is always watching over them.
+Welcome to Project Raahi. We started this project with a powerful question: how can we use technology to make every tourist feel truly safe, no matter how far off the beaten path they venture, while also making their journey seamless and enjoyable?
 
-For authorities, it's a modern command center, providing the real-time situational awareness needed to protect visitors and manage the region's vibrant tourism economy effectively.
+This platform is our answer. It's a complete safety and convenience ecosystem designed from the ground up to empower both visitors and local authorities, creating a trusted environment for exploration and adventure.
+
 ## 2. The Problem
 
-In key tourism regions like Northeast India, ensuring visitor safety is paramount for economic growth. Traditional policing and manual tracking methods are often insufficient in remote areas, leading to slow emergency response times. There is a pressing need for a smart, technology-driven solution that provides real-time monitoring, rapid response, and secure identity verification, while respecting user privacy.
+The freedom to explore beautiful, remote places like Northeast India comes with a hidden worry: what happens if you get into trouble with no phone signal? A dream trip can quickly become a nightmare when you're alone and help is hours away. This is more than a logistical problem; it’s about providing profound peace of mind for every traveler and their family, and ensuring regions can safely unlock their full tourism potential.
 
-## 3. The Solution
+## 3. The Solution: Raahi - Your Digital Companion & Command Center
 
-Raahi is a robust digital ecosystem that addresses this challenge through four key pillars:
+Raahi is a robust digital ecosystem that directly addresses these challenges. It replaces outdated, reactive methods with a proactive, data-driven approach, fostering trust, boosting the local economy, and streamlining incident response.
 
-* **Blockchain-Verified Digital ID:** A secure, tamper-proof, and time-limited digital ID is issued on the Polygon network. This is linked to a physical **NFC wristband** for instant, on-the-ground verification by authorities, ensuring identity integrity.
-* **Smart Mobile App:** A native Android application serves as the tourist's digital guardian. It features a one-touch **Panic Button**, proactive **Geo-fencing alerts** for high-risk zones, and a clear interface for accessing personal and emergency information.
-* **Real-time Authorities' Dashboard:** A sophisticated web-based command center for police and tourism departments. It provides a live map with real-time tourist locations, an integrated alert management system, and data visualization tools for heatmaps and cluster analysis.
-* **Proactive Alerting (Planned):** A planned AI "Watchdog" will provide anomaly detection to flag distress signals (e.g., signal loss, route deviation). The current version utilizes a robust rule-based engine.
+* **🛡️ Blockchain-Verified Digital ID:** A secure, tamper-proof digital ID for each tourist, issued on the Polygon network. Crucially, registrations are bundled and sent as an **array to the blockchain** to reduce gas fees and accelerate processing at entry points. This ID is linked to a physical **NFC wristband** for instant, on-the-ground verification by authorities.
+
+* **📱 Smart Mobile App:** A native Android app serving as the tourist's all-in-one companion.
+    * **Panic Button with SMS Fallback:** A one-touch SOS button that instantly shares live location. If internet is lost, it **automatically sends an SMS with GPS coordinates**, ensuring help always gets through.
+    * **Integrated Travel Hub:** Securely stores **travel itineraries** and documents like **flight and train tickets**. Features an integrated **map showing nearby monuments and police stations**.
+    * **Convenience Bookings:** Seamlessly book **local transport** and **monument tickets** directly within the app.
+    * **AI-Powered Safety Score:** A dynamic score assigned to the user, monitoring for unusual activity patterns.
+    * **Voice Assistant :** Enhancing accessibility with voice commands for app features and emergency triggers.
+
+* **🗺️ Unified Authorities' Dashboard:** A real-time command center for police and tourism departments.
+    * **Live Situational Awareness:** Provides real-time map visualizations, including **heatmaps** for tourist clusters and potential overcrowding.
+    * **Smart Emergency Resource Mapper:** When an emergency is triggered, the dashboard automatically identifies and maps the **nearest critical resources** (e.g., hospitals, pharmacies, mechanics) based on incident type, drawing optimal routes.
+    * **Crowd Control:** Authorities can **temporarily block ticket bookings** for specific areas directly from the dashboard to prevent overcrowding.
+    * **Investigative Tools :** Enhancements to access **past travel history of tourists with consistently low safety scores** to identify risk patterns.
 
 ## 4. Demo Video
 
-* [**Watch the Demo Video on YouTube**](https://youtu.be/qfpF9Ld5dyI?feature=shared)
+* [**Watch the 90-Second Demo Video on YouTube**](https://youtu.be/qfpF9Ld5dyI?feature=shared)
 
 ## Demo Credentials
 
-To test the mobile app and web dashboard, please use the following pre-configured credentials for our test user
-### For the Tourist Mobile App (Raahi)
+To test the mobile app and web dashboard, please use the following pre-configured credentials for our test users.
+
+### 📱 For the Tourist Mobile App (Raahi)
 
 * **Username:** `king@gmail.com`
 * **Password:** `321654987`
 
-### For the Authorities' Web Dashboard
+### 🖥️ For the Authorities' Web Dashboard
 
 * **Username:** `aadya@p.com`
 * **Password:** `12345678`
 
-  ### For the Issuer' Web Dashboard
+### 📝 For the Issuer's Web Portal
 
 * **Username:** `mussa@p.com`
 * **Password:** `12345678`
-
 
 ## 5. Architecture Highlights
 
@@ -77,18 +88,8 @@ The platform is built on a modern, serverless architecture designed for massive 
 * **Blockchain:** **Solidity** Smart Contract on **Polygon** (Layer 2).
 * **DevOps:** **Git & GitHub** for version control and **Firebase Hosting** for the web dashboard.
 
-## 7. Project Roadmap
 
-- [x] **Core Safety Platform (v1.0 - Current)**
-  - [x] Blockchain ID on Polygon Testnet
-  - [x] Native Android App with Panic Button & Live Tracking
-  - [x] Real-time Authorities' Dashboard
-  - [x] NFC Wristband Verification
-- [ ] **AI "Watchdog" Integration (v1.5)**
-- [ ] **iOS Application (v2.0)**
-- [ ] **Commerce & Convenience Features (v2.5)**
-
-## 8. Getting Started
+## 7. Getting Started
 
 To get a local copy up and running, follow these steps.
 
@@ -108,7 +109,7 @@ To get a local copy up and running, follow these steps.
 ### Local Installation
 1.  **Clone the repository:**
     ```sh
-    git clone https://github.com/Anonymous-7777/Raahi
+    git clone [https://github.com/Anonymous-7777/Raahi](https://github.com/Anonymous-7777/Raahi)
     ```
 2.  **Web Dashboard Setup:**
     * Navigate to the `web-dashboard` directory.
@@ -125,17 +126,13 @@ To get a local copy up and running, follow these steps.
     * Open the `/mobile-app` project in Android Studio and let Gradle sync.
     * Run the app on an emulator or a physical device.
 
-
-## 9. Acknowledgments
+## 8. Acknowledgments
 
 * The logo and visual assets used in this project were generated using AI image generation tools.
-
-
-## 10. Contributors
-
-* Nathwani Darshil Rajnibhai
-* Aadya Baranwal
-* Mussadik Ganashadabasha Jamadar
-* Aditya R Murthy
-* Anand Raj
-* M Jahnavi Reddy
+## 9. Contributors
+1. Nathwani Darshil
+2. Aadya Baranwal
+3. Musaddik Jamadar
+4. Aditya R Murthy
+5. Jahnavi Redy
+6. Anand Raj
