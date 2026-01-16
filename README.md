@@ -126,11 +126,4 @@ To get a local copy up and running, follow these steps.
 ## 8. Acknowledgments
 
 * The logo and visual assets used in this project were generated using AI image generation tools.
-## 9. Contributors
-Team Paradox
-1. Nathwani Darshil
-2. Aadya Baranwal
-3. Aditya R Murthy
-4. Musaddik Jamadar
-5. Anand Raj
-6. M Jahnavi Reddy
+
